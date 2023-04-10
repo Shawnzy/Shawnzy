@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on data science projects and DevOps<br>I'm looking to collaborate on software to clean and create new features<br>I am currently studying to get my professional machine learning certificate from AWS<br>Ask me about data center thermal cost optimization<br>Fun fact - I aspire to become a technical expert in my field so I can mentor new data scientists
+🌱 I'm currently working on data science projects and DevOps<br>👯 I'm looking to collaborate on software to clean and create new features<br>📖  I am currently studying to get my professional machine learning certificate from AWS<br>💬 Ask me about data center thermal cost optimization<br>⚡ Fun fact - I mentor new data scientists in career and technical skills development
 
 
 ## 🌐 Socials:
